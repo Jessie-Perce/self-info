@@ -1,0 +1,6 @@
+<ul>
+   <li>working in a team<li>
+   <li>cooperating in a professional manor</li>
+   <li>basis of project development</li>
+   <li>etiquette for cooperation</li>
+</ul>
